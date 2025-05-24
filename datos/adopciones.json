@@ -1,0 +1,26 @@
+[
+    {
+        "animal": "Bruno",
+        "especie": "Perro",
+        "edad": "7",
+        "salud": "Buena",
+        "adoptante": "Caro López",
+        "correo": "caro123@gmail.com",
+        "telefono": "1234561230",
+        "ine": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro4.png",
+        "notas": "",
+        "fecha": "22/05/2025 21:01"
+    },
+    {
+        "animal": "Mina",
+        "especie": "Perro",
+        "edad": "1",
+        "salud": "Buena",
+        "adoptante": "Abraham Fuentes",
+        "correo": "abraham123@gmail.com",
+        "telefono": "2228980123",
+        "ine": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/pata.png",
+        "notas": "",
+        "fecha": "23/05/2025 09:14"
+    }
+]

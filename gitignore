@@ -1,0 +1,31 @@
+
+# Ignora las carpetas de caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales o de entorno
+*.log
+*.sqlite3
+*.db
+*.bak
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por editores/IDEs
+.vscode/
+.idea/
+
+# Entornos virtuales (si usas uno)
+venv/
+env/
+
+# Archivos personales o de configuración local
+*.env
+config_local.py
+
+# Archivos de salida o exportación (como Excel o PDF generados)
+*.xlsx
+*.pdf
